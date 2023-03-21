@@ -1,6 +1,6 @@
 <?php
 // Connexion à la base de données
-$pdo = new PDO('mysql:host=db5012382115.hosting-data.io;dbname=ma_base_de_donnees', 'dbu153007', '2207042010Az@');
+$pdo = new PDO('mysql:host=db5012382115.hosting-data.io;dbname=dbs10412686', 'dbu153007', '2207042010Az@');
 
 // Récupération des données du formulaire
 $nom_utilisateur = $_POST['nom_utilisateur'];
